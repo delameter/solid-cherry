@@ -1,0 +1,34 @@
+                        bg          fg       border     shadow
+
+disabled            solid_2     solid_4     solid_4      -
+textfield           solid_3     -           -            -
+inactive            solid_3     label_4     solid_7      -
+regular             solid_4     label_4     solid_7      -
+active              solid_5     label_5     solid_7      -
+action btn press    solid_5     -           solid_6      -
+selection          *cherry_5    label_5     solid_7      -    * solid_6 for tabs
+active h +inactive  solid_5     -           -            -
+active header       solid_6     -           -            -
+underlined          solid_6     label_5     solid_7      -
+select+inactive     solid_6     label_5     solid_7      -
+lightselect         solid_6     label_5     solid_7      -
+lightsel+inactive   solid_6     label_5     solid_7      -
+hover               solid_6     label_5     solid_7      -
+hover+inactive      solid_6     label_5     solid_7      -
+action btn hover    solid_6     -           solid_7      -
+button            2 solid_6     label_7     2 solid_7    solid_2
+button default    2 cherry_5    label_7     2 cherry_3   cherry_2
+accelerator         -           label_4     -            -
+accelerator select  -           label_5     -            -
+error               -           cherry_7    -            -
+tool btn selected   solid_6     label_5     -
+tool btn hover      solid_6     label_5     -
+
+                    color               border
+focus               solid_4           cherry_6
+btn focus            -                cherry_6
+btn def focus        -                cherry_6
+underline           cherry_7            -
+underline+inactive  label_1             -
+
+

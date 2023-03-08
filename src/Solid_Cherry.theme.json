@@ -8,7 +8,7 @@
     "cherry_5": "#6e2a2c",
     "cherry_6": "#9f3334",
     "cherry_7": "#b73838",
-    "cherry_8": "#e64252",
+    "cherry_8": "#e62a37",
     "solid_1": "#010102",
     "solid_2": "#060709",
     "solid_3": "#0f1011",
@@ -25,7 +25,7 @@
     "label_6": "#d7dae0",
     "label_7": "#eef3ff",
     "label_8": "#fdfdfd",
-    "transparent": "#00000000"
+    "transparent": "#40005000"
   },
   "dark": true,
   "author": "Aleksandr Shavykin",
@@ -33,19 +33,31 @@
   "ui": {
     "*": {
       "background": "solid_4",
-      "disabledBackground": "solid_4",
-      "inactiveBackground": "solid_6",
-      "selectionBackground": "solid_5",
-      "selectionInactiveBackground": "solid_5",
+      "foreground": "label_4",
+      "infoForeground": "label_2",
+
+      "disabledBackground": "solid_2",
+      "inactiveBackground": "solid_3",
+      "selectionBackground": "cherry_5",
+      "selectionForeground": "label_5",
+      "selectionInactiveBackground": "solid_6",
+      "selectionBackgroundInactive": "solid_6",
       "lightSelectionBackground": "solid_6",
-      "lightSelectionInactiveBackground": "solid_4",
+      "lightSelectionInactiveBackground": "solid_6",
       "borderColor": "solid_7",
-      "disabledBorderColor": "solid_7",
+      "disabledBorderColor": "solid_4",
+      "disabledForeground": "solid_4",
       "separatorForeground": "solid_7",
       "separatorColor": "solid_7",
       "lineSeparatorColor": "solid_7",
       "underlineColor": "cherry_7",
-      "underlineHeight": 2
+      "inactiveUnderlineColor": "label_1",
+      "underlineHeight": 2,
+      "acceleratorForeground": "label_4",
+      "acceleratorSelectionForeground": "label_5",
+      "errorForeground": "cherry_7",
+      "focusColor": "solid_4",
+      "focusedBorderColor": "cherry_6"
     },
 
     "Borders": {
@@ -54,9 +66,7 @@
     },
 
     "Component": {
-      "arc": 8,
-      "borderColor": "solid_7",
-      "focusedBorderColor": "cherry_6"
+      "arc": 8
     },
 
     "TextField.background": "solid_3",
@@ -67,34 +77,34 @@
       "ArrowButton": {
         "nonEditableBackground": "solid_3"
       },
-
-      "nonEditableBackground": "solid_3",
+      "nonEditableBackground": "solid_2",
       "background": "solid_3"
     },
 
     "ActionButton": {
-      "hoverBackground": "solid_7",
+      "hoverBackground": "solid_6",
       "hoverBorderColor": "solid_7",
-      "pressedBackground": "solid_7",
-      "pressedBorderColor": "solid_7"
+      "pressedBackground": "solid_5",
+      "pressedBorderColor": "solid_6"
     },
 
     "Button": {
-      "foreground": "label_7",
       "arc": 8,
+      "foreground": "label_7",
       "focusedBorderColor": "cherry_6",
-      "shadowColor": "transparent",
-      "startBackground": "solid_7",
-      "endBackground": "solid_7",
       "startBorderColor": "solid_7",
       "endBorderColor": "solid_7",
+      "startBackground": "solid_6",
+      "endBackground": "solid_6",
+      "shadowColor": "solid_2",
       "default": {
         "foreground": "label_7",
-        "startBackground": "cherry_6",
-        "endBackground": "cherry_6",
         "focusedBorderColor": "cherry_6",
-        "startBorderColor": "transparent",
-        "endBorderColor": "transparent"
+        "startBackground": "cherry_5",
+        "endBackground": "cherry_5",
+        "startBorderColor": "cherry_3",
+        "endBorderColor": "cherry_3",
+        "shadowColor": "cherry_2"
       }
     },
 
@@ -103,70 +113,84 @@
     "Tree": {
       "rowHeight": 20
     },
+
     "ToolWindow": {
+      "Button": {
+        "hoverBackground": "solid_6",
+        "selectedBackground": "solid_6",
+        "selectedForeground": "label_5"
+      },
+
       "Header": {
-        "inactiveBackground": "solid_4"
+        "background": "solid_4",
+        "inactiveBackground": "solid_3"
       },
 
       "HeaderTab": {
-        "underlinedTabBackground": "solid_5"
-      },
-
-      "Button": {
-        "hoverBackground": "solid_5",
-        "selectedBackground": "solid_5"
+        "hoverBackground": "solid_6",
+        "hoverInactiveBackground": "solid_6",
+        "underlinedTabBackground": "solid_6",
+        "selectedBackground": "solid_6",
+        "selectedInactiveBackground": "solid_6"
       }
     },
 
     "Popup": {
       "Header": {
-        "activeBackground": "solid_5",
+        "activeBackground": "solid_6",
         "inactiveBackground": "solid_5"
       }
     },
 
     "DefaultTabs": {
-      "hoverBackground": "transparent",
+      "hoverBackground": "solid_6",
       "underlineColor": "cherry_7",
-      "underlinedTabBackground": "solid_5",
+      "inactiveUnderlineColor": "label_1",
+      "underlinedTabBackground": "solid_6",
       "underlineHeight": 2
     },
 
     "SearchEverywhere": {
       "Tab": {
         "selectedForeground": "label_5",
-        "selectedBackground": "solid_5"
+        "selectedBackground": "solid_6"
       }
     },
 
     "Plugins": {
       "Tab": {
-        "selectedBackground": "solid_5",
-        "hoverBackground": "solid_5"
+        "selectionBackground": "cherry_5",
+        "hoverBackground": "solid_6"
       },
-      "lightSelectionBackground": "solid_5"
+      "lightSelectionBackground": "solid_6"
     },
 
+    "EditorPane.inactiveBackground": "solid_3",
+
     "EditorTabs": {
-      "selectedBackground": "solid_5",
-      "underlinedTabBackground": "solid_5",
+      "selectedBackground": "solid_6",
+      "selectedForeground": "label_5",
+      "underlinedTabBackground": "solid_6",
       "underlinedTabForeground": "label_5",
       "underlineColor": "cherry_7",
-      "inactiveUnderlineColor": "cherry_6",
-      "underlineHeight": 2
+      "underlineHeight": 3,
+      "hoverBackground": "solid_6",
+      "hoverInactiveBackground": "solid_6",
+      "selectedInactiveBackground": "solid_6"
     },
 
     "StatusBar": {
-      "hoverBackground": "solid_5"
+      "hoverBackground": "solid_6"
     },
 
     "VersionControl": {
-      "RefLabel.foreground": "label_5",
+      "RefLabel.foreground": "cherry_7",
       "Log.Commit": {
-        "currentBranchBackground": "23213b",
-        "unmatchedForeground": "label_3"
+        "currentBranchBackground": "cherry_2",
+        "unmatchedForeground": "label_2",
+        "hoveredBackground": "solid_6"
       },
-      "FileHistory.Commit.selectedBranchBackground": "cherry_5"
+      "FileHistory.Commit.selectedBranchBackground": "cherry_2"
     },
 
     "FileColor": {
@@ -176,17 +200,22 @@
     },
 
     "MemoryIndicator": {
-      "allocatedBackground": "solid_8",
+      "allocatedBackground": "label_1",
       "usedBackground": "cherry_5"
     }
   },
   "icons": {
     "ColorPalette": {
-      "Checkbox.Background.Default.Dark": "solid_3",
+      "Checkbox.Background.Disabled.Dark": "solid_2",
+      "Checkbox.Background.Default.Dark": "solid_4",
+      "Checkbox.Background.Selected.Dark": "cherry_2",
+      "Checkbox.Border.Disabled.Dark": "solid_4",
       "Checkbox.Border.Default.Dark": "solid_7",
-      "Checkbox.Focus.Wide.Dark": "cherry_5",
-      "Checkbox.Background.Disabled.Dark": "solid_3",
-      "Checkbox.Border.Disabled.Dark": "solid_4"
+      "Checkbox.Focus.Wide.Dark": "cherry_3",
+      "Checkbox.Focus.Thin.Default.Dark": "cherry_4",
+      "Checkbox.Focus.Thin.Selected.Dark": "cherry_5",
+      "Checkbox.Foreground.Disabled.Dark": "solid_4",
+      "Checkbox.Foreground.Selected.Dark": "cherry_7"
     }
   }
 }
