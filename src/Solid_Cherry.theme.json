@@ -46,7 +46,7 @@
       "lightSelectionInactiveBackground": "solid_6",
       "borderColor": "solid_7",
       "disabledBorderColor": "solid_4",
-      "disabledForeground": "solid_4",
+      "disabledForeground": "label_1",
       "separatorForeground": "solid_7",
       "separatorColor": "solid_7",
       "lineSeparatorColor": "solid_7",
