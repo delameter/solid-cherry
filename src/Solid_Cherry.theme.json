@@ -1,0 +1,192 @@
+{
+  "name": "Solid Cherry",
+  "colors": {
+    "cherry_1": "#231515",
+    "cherry_2": "#2c1d1f",
+    "cherry_3": "#3d1c1f",
+    "cherry_4": "#4c2526",
+    "cherry_5": "#6e2a2c",
+    "cherry_6": "#9f3334",
+    "cherry_7": "#b73838",
+    "cherry_8": "#e64252",
+    "solid_1": "#010102",
+    "solid_2": "#060709",
+    "solid_3": "#0f1011",
+    "solid_4": "#131518",
+    "solid_5": "#212325",
+    "solid_6": "#292A2B",
+    "solid_7": "#2f3132",
+    "solid_8": "#313233",
+    "label_1": "#4d4e4e",
+    "label_2": "#636265",
+    "label_3": "#7E8185",
+    "label_4": "#abb2bf",
+    "label_5": "#cfd2d5",
+    "label_6": "#d7dae0",
+    "label_7": "#eef3ff",
+    "label_8": "#fdfdfd",
+    "transparent": "#00000000"
+  },
+  "dark": true,
+  "author": "Aleksandr Shavykin",
+  "editorScheme": "/Solid_Cherry.xml",
+  "ui": {
+    "*": {
+      "background": "solid_4",
+      "disabledBackground": "solid_4",
+      "inactiveBackground": "solid_6",
+      "selectionBackground": "solid_5",
+      "selectionInactiveBackground": "solid_5",
+      "lightSelectionBackground": "solid_6",
+      "lightSelectionInactiveBackground": "solid_4",
+      "borderColor": "solid_7",
+      "disabledBorderColor": "solid_7",
+      "separatorForeground": "solid_7",
+      "separatorColor": "solid_7",
+      "lineSeparatorColor": "solid_7",
+      "underlineColor": "cherry_7",
+      "underlineHeight": 2
+    },
+
+    "Borders": {
+      "color": "solid_7",
+      "ContrastBorderColor": "solid_7"
+    },
+
+    "Component": {
+      "arc": 8,
+      "borderColor": "solid_7",
+      "focusedBorderColor": "cherry_6"
+    },
+
+    "TextField.background": "solid_3",
+    "FormattedTextField.background": "solid_3",
+    "TextArea.background": "solid_3",
+
+    "ComboBox": {
+      "ArrowButton": {
+        "nonEditableBackground": "solid_3"
+      },
+
+      "nonEditableBackground": "solid_3",
+      "background": "solid_3"
+    },
+
+    "ActionButton": {
+      "hoverBackground": "solid_7",
+      "hoverBorderColor": "solid_7",
+      "pressedBackground": "solid_7",
+      "pressedBorderColor": "solid_7"
+    },
+
+    "Button": {
+      "foreground": "label_7",
+      "arc": 8,
+      "focusedBorderColor": "cherry_6",
+      "shadowColor": "transparent",
+      "startBackground": "solid_7",
+      "endBackground": "solid_7",
+      "startBorderColor": "solid_7",
+      "endBorderColor": "solid_7",
+      "default": {
+        "foreground": "label_7",
+        "startBackground": "cherry_6",
+        "endBackground": "cherry_6",
+        "focusedBorderColor": "cherry_6",
+        "startBorderColor": "transparent",
+        "endBorderColor": "transparent"
+      }
+    },
+
+    "Table.stripeColor": "solid_4",
+
+    "Tree": {
+      "rowHeight": 20
+    },
+    "ToolWindow": {
+      "Header": {
+        "inactiveBackground": "solid_4"
+      },
+
+      "HeaderTab": {
+        "underlinedTabBackground": "solid_5"
+      },
+
+      "Button": {
+        "hoverBackground": "solid_5",
+        "selectedBackground": "solid_5"
+      }
+    },
+
+    "Popup": {
+      "Header": {
+        "activeBackground": "solid_5",
+        "inactiveBackground": "solid_5"
+      }
+    },
+
+    "DefaultTabs": {
+      "hoverBackground": "transparent",
+      "underlineColor": "cherry_7",
+      "underlinedTabBackground": "solid_5",
+      "underlineHeight": 2
+    },
+
+    "SearchEverywhere": {
+      "Tab": {
+        "selectedForeground": "label_5",
+        "selectedBackground": "solid_5"
+      }
+    },
+
+    "Plugins": {
+      "Tab": {
+        "selectedBackground": "solid_5",
+        "hoverBackground": "solid_5"
+      },
+      "lightSelectionBackground": "solid_5"
+    },
+
+    "EditorTabs": {
+      "selectedBackground": "solid_5",
+      "underlinedTabBackground": "solid_5",
+      "underlinedTabForeground": "label_5",
+      "underlineColor": "cherry_7",
+      "inactiveUnderlineColor": "cherry_6",
+      "underlineHeight": 2
+    },
+
+    "StatusBar": {
+      "hoverBackground": "solid_5"
+    },
+
+    "VersionControl": {
+      "RefLabel.foreground": "label_5",
+      "Log.Commit": {
+        "currentBranchBackground": "23213b",
+        "unmatchedForeground": "label_3"
+      },
+      "FileHistory.Commit.selectedBranchBackground": "cherry_5"
+    },
+
+    "FileColor": {
+      "Green": "212621",
+      "Yellow": "2C1D1F",
+      "Red": "2C1D1F"
+    },
+
+    "MemoryIndicator": {
+      "allocatedBackground": "solid_8",
+      "usedBackground": "cherry_5"
+    }
+  },
+  "icons": {
+    "ColorPalette": {
+      "Checkbox.Background.Default.Dark": "solid_3",
+      "Checkbox.Border.Default.Dark": "solid_7",
+      "Checkbox.Focus.Wide.Dark": "cherry_5",
+      "Checkbox.Background.Disabled.Dark": "solid_3",
+      "Checkbox.Border.Disabled.Dark": "solid_4"
+    }
+  }
+}

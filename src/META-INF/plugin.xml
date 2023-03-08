@@ -1,0 +1,45 @@
+<idea-plugin>
+  <id>link.dlup.solidCherryTheme</id>
+  <name>Solid Cherry Theme</name>
+  <version>1.0.0</version>
+  <vendor email="0.delameter@gmail.com">Aleksandr Shavykin</vendor>
+
+  <description><![CDATA[
+      A dark theme based on Darcula Solid (with even more darkness) mixed with a little bit of red. Inspired by Material Black Cherry theme for GNOME.
+      <br/><br/>
+
+      To install:
+      <ul>
+      <li>Go to <i>Settings (Preferences) | Plugins</i>, find the theme plugin and install it</li>
+      <li>Restart IDE</li>
+      <li>Go to <i>Settings (Preferences) | Appearance & Behavior | Appearance</i> and see the <i>Theme</i> dropdown</li>
+      </ul>
+      <br/>
+      <a href="https://github.com/es7s/solid-cherry/issues">Report an issue</a>  |  <a href="https://github.com/es7s/solid-cherry">On GitHub</a>
+      <br/><br/><br/>
+
+<!--      <img src="https://raw.githubusercontent.com/vecheslav/darcula-solid/master/screenshots/darculasolid-main-window.png" border="0" width="700" alt="Main window screenshot">-->
+<!--      <br/>-->
+<!--      <img src="https://raw.githubusercontent.com/vecheslav/darcula-solid/master/screenshots/darculasolid-settings.png" border="0" width="700" alt="Settings screenshot">-->
+    ]]></description>
+
+  <change-notes><![CDATA[
+    ...
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="191.0"/>
+
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="ffff6a5a-ed97-4179-836d-47aa621e045d" path="/Solid_Cherry.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
