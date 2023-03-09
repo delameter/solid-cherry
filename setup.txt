@@ -37,6 +37,3 @@ underline+inactive  label_1             -
 link                cherry_5
 link hpver          cherry_6
 
-
-
-

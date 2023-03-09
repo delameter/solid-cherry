@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>link.dlup.solidCherryTheme</id>
   <name>Solid Cherry Theme</name>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <vendor email="0.delameter@gmail.com">Aleksandr Shavykin</vendor>
 
   <description><![CDATA[
@@ -35,7 +35,7 @@
 
   <extensions defaultExtensionNs="com.intellij">
     <!-- Add your extensions here -->
-    <themeProvider id="ffff6a5a-ed97-4179-836d-47aa621e045d" path="/Solid_Cherry.theme.json"/>
+    <themeProvider id="ffffff4f-e920-4f2a-8cf0-97066d8793dc" path="/Solid_Cherry.theme.json"/>
   </extensions>
 
   <actions>

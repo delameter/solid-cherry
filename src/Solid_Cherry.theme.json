@@ -187,7 +187,7 @@
       "disabledForeground": "label_1",
       "hoverBackground": "solid_5",
       "lightSelectionBackground": "solid_6",
-      "tagBackground": "solid_8",
+      "tagBackground": "cherry_8",
       "tagForeground": "label_4",
 
       "Button": {
@@ -201,11 +201,11 @@
       },
 
       "SearchField": {
-        "background": "solid_4",
+        "background": "cherry_2",
         "borderColor": "solid_6"
       },
 
-      "SectionHeader.background": "solid_8",
+      "SectionHeader.background": "solid_4",
 
       "Tab": {
         "selectedForeground": "label_5",
@@ -337,9 +337,6 @@
   },
   "icons": {
     "ColorPalette": {
-      "Actions.Red": "cherry_6",
-      "Actions.Green": "cherry_5",
-      "Actions.Blue": "#333069",
       "Checkbox.Background.Disabled.Dark": "solid_2",
       "Checkbox.Background.Default.Dark": "solid_4",
       "Checkbox.Background.Selected.Dark": "cherry_2",
