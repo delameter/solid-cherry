@@ -8,6 +8,7 @@ active              solid_5     label_5     solid_7      -
 action btn press    solid_5     -           solid_6      -
 selection          *cherry_5    label_5     solid_7      -    * solid_6 for tabs
 active h +inactive  solid_5     -           -            -
+popup               solid_5     -           -            -
 active header       solid_6     -           -            -
 underlined          solid_6     label_5     solid_7      -
 select+inactive     solid_6     label_5     solid_7      -
@@ -23,7 +24,7 @@ accelerator select  -           label_5     -            -
 error               -           cherry_7    -            -
 tool btn selected   solid_6     label_5     -
 tool btn hover      solid_6     label_5     -
-
+_ACCENT             solud 7
 
 
                     color               border
@@ -33,5 +34,9 @@ btn focus            -                cherry_6
 btn def focus        -                cherry_6
 underline           cherry_7            -
 underline+inactive  label_1             -
+link                cherry_5
+link hpver          cherry_6
+
+
 
 

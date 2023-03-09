@@ -1,0 +1,23 @@
+<idea-plugin>
+  <id>color.scheme.Solid Cherry</id>
+  <name>Solid Cherry Color Scheme</name>
+  <version>0.1</version>
+  <vendor email="" url="http://"></vendor>
+
+  <description><![CDATA[
+      
+    ]]></description>
+
+  <change-notes><![CDATA[
+      
+    ]]>
+  </change-notes>
+
+  <idea-version since-build="142.0"/>
+
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <bundledColorScheme path="/colors/Solid Cherry"/>
+  </extensions>
+</idea-plugin>
