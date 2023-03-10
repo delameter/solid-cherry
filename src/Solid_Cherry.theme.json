@@ -28,7 +28,7 @@
   },
   "dark": true,
   "author": "Aleksandr Shavykin",
-  "editorScheme": "/Solid_Cherry.xml",
+  "editorScheme": "/Solid_Cherry.iml",
   "ui": {
     "*": {
       "background": "solid_4",
@@ -187,7 +187,6 @@
       "disabledForeground": "label_1",
       "hoverBackground": "solid_5",
       "lightSelectionBackground": "solid_6",
-      "tagBackground": "cherry_8",
       "tagForeground": "label_4",
 
       "Button": {
@@ -201,11 +200,11 @@
       },
 
       "SearchField": {
-        "background": "cherry_2",
+        "background": "solid_4",
         "borderColor": "solid_6"
       },
 
-      "SectionHeader.background": "solid_4",
+      "SectionHeader.background": "cherry_2",
 
       "Tab": {
         "selectedForeground": "label_5",

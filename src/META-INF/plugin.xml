@@ -1,26 +1,54 @@
 <idea-plugin>
   <id>link.dlup.solidCherryTheme</id>
   <name>Solid Cherry Theme</name>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <vendor email="0.delameter@gmail.com">Aleksandr Shavykin</vendor>
 
   <description><![CDATA[
-      A dark theme based on Darcula Solid (with even more darkness) mixed with a little bit of red. Inspired by Material Black Cherry theme for GNOME.
-      <br/><br/>
+    <h1>
+      <img src="https://user-images.githubusercontent.com/50381946/223976737-dec4c902-aecc-4a29-8623-43661974f984.png" width="96" height="96"><br>
+      <code>Solid Cherry</code>
+    </h1>
+    <h4>
+        <a href="https://github.com/es7s/solid-cherry/issues">
+          [Report an issue]
+        </a>
+        |
+        <a href="https://github.com/es7s/solid-cherry">
+          [GitHub]
+        </a>
+    </h4>
 
-      To install:
-      <ul>
-      <li>Go to <i>Settings (Preferences) | Plugins</i>, find the theme plugin and install it</li>
-      <li>Restart IDE</li>
-      <li>Go to <i>Settings (Preferences) | Appearance & Behavior | Appearance</i> and see the <i>Theme</i> dropdown</li>
-      </ul>
-      <br/>
-      <a href="https://github.com/es7s/solid-cherry/issues">Report an issue</a>  |  <a href="https://github.com/es7s/solid-cherry">On GitHub</a>
-      <br/><br/><br/>
+    <p>
+    JetBrains IDE dark theme based on `Darcula Solid` with extra darkness and a little bit of red.
+    Inspired by `Material Black Cherry` theme for GNOME (and made to match it in the first place).
+    </p>
 
-<!--      <img src="https://raw.githubusercontent.com/vecheslav/darcula-solid/master/screenshots/darculasolid-main-window.png" border="0" width="700" alt="Main window screenshot">-->
-<!--      <br/>-->
-<!--      <img src="https://raw.githubusercontent.com/vecheslav/darcula-solid/master/screenshots/darculasolid-settings.png" border="0" width="700" alt="Settings screenshot">-->
+    <h3>Installation</h3>
+    <ul>
+        <li>Go to <i>Settings (Preferences) -> Plugins</i>, find the theme plugin and install it</li>
+        <li>Restart IDE</li>
+        <li>Go to <i>Settings (Preferences) -> Appearance & Behavior -> Appearance</i> and see the <i>Theme</i> dropdown</li>
+    </ul>
+
+    <h3>Examples</h3>
+    <p>
+        <a href="https://github.com/es7s/solid-cherry/blob/master/screenshots/solidcherry-settings.png">
+          <img src="https://user-images.githubusercontent.com/50381946/223977954-00e11ef2-a58e-4ace-9662-9513c260969c.png" width="640" height="448" alt="Settings example">
+        </a>
+        <br/>
+        <a href="https://github.com/es7s/solid-cherry/blob/master/screenshots/solidcherry-main-window.png">
+          <img src="https://user-images.githubusercontent.com/50381946/223978518-ed97c988-52da-493a-b36b-e40f37efef33.png" width="640" height="350" alt="Main window example">
+        </a>
+        <br/>
+        <a href="https://github.com/es7s/solid-cherry/blob/master/screenshots/solidcherry-debugger.png">
+          <img src="https://user-images.githubusercontent.com/50381946/223979019-026811aa-5e81-4bf9-abb7-683899f7a95d.png" width="640" height="480" alt="Debugger example">
+        </a>
+        <br/>
+    </p>
+    <blockquote>
+      If images aren't loading, try: <a href="https://github.com/es7s/solid-cherry/blob/master/screenshots/">github.com/es7s/solid-cherry/blob/master/screenshots</a>
+    </blockquote>
     ]]></description>
 
   <change-notes><![CDATA[
