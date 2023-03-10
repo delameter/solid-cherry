@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>link.dlup.solidCherryTheme</id>
   <name>Solid Cherry Theme</name>
-  <version>1.0.3</version>
+  <version>1.0.4</version>
   <vendor email="0.delameter@gmail.com">Aleksandr Shavykin</vendor>
 
   <description><![CDATA[

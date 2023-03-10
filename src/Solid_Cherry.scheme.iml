@@ -1,0 +1,92 @@
+<scheme name="Solid Cherry" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2023-03-10T18:30:48</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2022.3.2.0.0</property>
+    <property name="modified">2023-03-10T18:31:04</property>
+    <property name="originalScheme">Solid Cherry</property>
+  </metaInfo>
+  <colors>
+    <option name="ADDED_LINES_COLOR" value="27362a" />
+    <option name="CARET_COLOR" value="f7f7f7" />
+    <option name="CARET_ROW_COLOR" value="323234" />
+    <option name="DELETED_LINES_COLOR" value="545353" />
+    <option name="DIFF_SEPARATOR_WAVE" value="313233" />
+    <option name="GUTTER_BACKGROUND" value="131518" />
+    <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="29442d" />
+    <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="696767" />
+    <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="293b4b" />
+    <option name="INDENT_GUIDE" value="2c2c2d" />
+    <option name="INFORMATION_HINT" value="0f1011" />
+    <option name="MODIFIED_LINES_COLOR" value="27333e" />
+    <option name="READONLY_BACKGROUND" value="171717" />
+    <option name="RIGHT_MARGIN_COLOR" value="2c2c2d" />
+    <option name="SELECTED_INDENT_GUIDE" value="313132" />
+    <option name="SELECTED_TEARLINE_COLOR" value="5e6063" />
+    <option name="SELECTION_BACKGROUND" value="176081" />
+    <option name="SELECTION_FOREGROUND" value="cfd2d5" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="999b9b" />
+    <option name="TEARLINE_COLOR" value="3d3e40" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="4c2526" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="331f2f" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="281f33" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="202040" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="202020" />
+    <option name="VISUAL_INDENT_GUIDE" value="2c2c2d" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="303030" />
+  </colors>
+  <attributes>
+    <option name="DIFF_CONFLICT">
+      <value>
+        <option name="FOREGROUND" value="2c2c22" />
+        <option name="BACKGROUND" value="45452b" />
+        <option name="ERROR_STRIPE_COLOR" value="8f8347" />
+      </value>
+    </option>
+    <option name="DIFF_DELETED">
+      <value>
+        <option name="FOREGROUND" value="302020" />
+        <option name="BACKGROUND" value="4e2727" />
+        <option name="ERROR_STRIPE_COLOR" value="b03435" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="FOREGROUND" value="212c26" />
+        <option name="BACKGROUND" value="294436" />
+        <option name="ERROR_STRIPE_COLOR" value="447152" />
+      </value>
+    </option>
+    <option name="DIFF_MODIFIED">
+      <value>
+        <option name="FOREGROUND" value="27333e" />
+        <option name="BACKGROUND" value="385570" />
+        <option name="ERROR_STRIPE_COLOR" value="43698d" />
+      </value>
+    </option>
+    <option name="LINE_FULL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="294436" />
+      </value>
+    </option>
+    <option name="LINE_NONE_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="4e2727" />
+        <option name="ERROR_STRIPE_COLOR" value="4e2727" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="LINE_PARTIAL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="45452b" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="cfd2d5" />
+        <option name="BACKGROUND" value="f1011" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
