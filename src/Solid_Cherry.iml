@@ -10,7 +10,7 @@
     <option name="ADDED_LINES_COLOR" value="27362a" />
     <option name="CARET_COLOR" value="f7f7f7" />
     <option name="CARET_ROW_COLOR" value="323234" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1c1c1c" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DELETED_LINES_COLOR" value="545353" />
     <option name="DIFF_SEPARATOR_WAVE" value="313233" />
     <option name="GUTTER_BACKGROUND" value="131518" />
@@ -86,7 +86,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="cfd2d5" />
-        <option name="BACKGROUND" value="f1011" />
+        <option name="BACKGROUND" value="0f1011" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
