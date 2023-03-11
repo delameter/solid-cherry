@@ -32,7 +32,7 @@ Inspired by `Material Black Cherry` theme for GNOME (and made to match it in the
     <br/>
     <img src="https://user-images.githubusercontent.com/50381946/223978518-ed97c988-52da-493a-b36b-e40f37efef33.png" width="640" height="350" alt="Main window example">
     <br/>
-    <img src="https://user-images.githubusercontent.com/50381946/223979019-026811aa-5e81-4bf9-abb7-683899f7a95d.png" width="640" height="480" alt="Debugger example">
+    <img src="https://user-images.githubusercontent.com/50381946/224454466-69bc6a43-1110-4004-972f-27903cd22042.png" width="640" height="480" alt="Debugger example">
     <br/>
 </p>
 <blockquote>
