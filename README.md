@@ -1,7 +1,7 @@
 <h1 align="center">
 <p>
   <img src="https://user-images.githubusercontent.com/50381946/223976737-dec4c902-aecc-4a29-8623-43661974f984.png" width="96" height="96"><br>
-  <code>Solid Cherry</code>
+  <img src="https://user-images.githubusercontent.com/50381946/224617561-ffbb2efd-fe5b-45d0-a3ab-16758fead111.png" width="300" height="64">
 </p>
 <h4 align="center">
     <a href="https://github.com/es7s/solid-cherry/issues">
