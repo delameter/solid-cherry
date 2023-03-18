@@ -9,7 +9,7 @@
 Main palette
 =================
 
-Open  `[JSON] <palette.json>`_  ·   `[YAML] <palette.yml>`_
+`[JSON] <palette.json>`_  ·   `[YAML] <palette.yml>`_
 
 .. |l_cherry_1| replace:: `<img src="https://raster.shields.io/static/v1?label=Cherry 1&message=231515&color=231515&labelColor=404040&style=for-the-badge">`
 .. |l_cherry_2| replace:: `<img src="https://raster.shields.io/static/v1?label=Cherry 2&message=2c1d1f&color=2c1d1f&labelColor=404040&style=for-the-badge">`
@@ -51,7 +51,7 @@ Open  `[JSON] <palette.json>`_  ·   `[YAML] <palette.yml>`_
 Theme
 =================
 
-Open `[JSON] <src/Solid_Cherry.theme.json>`_
+`[JSON] <src/Solid_Cherry.theme.json>`_
 
 .. |--| replace:: \-
 .. |cherry_1| replace:: `<img src="https://raster.shields.io/static/v1?label=%F0%9F%8D%92%201&message=231515&color=231515&labelColor=404040&style=flat-square">`
@@ -121,7 +121,7 @@ link hpver         |cherry_6|       |--|       |--|          |--|
 Editor scheme
 =================
 
-Open `[XML] <src/Solid_Cherry.iml>`_
+`[XML] <src/Solid_Cherry.iml>`_
 
 ..  |readonly_bg| replace:: `<img src="https://img.shields.io/static/v1?label=[%E2%80%A6]&message=1f1b18&color=1f1b18&labelColor=404040&style=flat-square">`
 ..  |select_bg|   replace:: `<img src="https://img.shields.io/static/v1?label=[%E2%80%A6]&message=176081&color=176081&labelColor=404040&style=flat-square">`
