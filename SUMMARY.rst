@@ -9,7 +9,7 @@
 Main palette
 =================
 
-Open as:   `[JSON] <palette.json>`_  ·   `[YAML] <palette.yml>`_
+Open  `[JSON] <palette.json>`_  ·   `[YAML] <palette.yml>`_
 
 .. |l_cherry_1| replace:: `<img src="https://raster.shields.io/static/v1?label=Cherry 1&message=231515&color=231515&labelColor=404040&style=for-the-badge">`
 .. |l_cherry_2| replace:: `<img src="https://raster.shields.io/static/v1?label=Cherry 2&message=2c1d1f&color=2c1d1f&labelColor=404040&style=for-the-badge">`
