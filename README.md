@@ -31,4 +31,4 @@ Inspired by `Material Black Cherry` theme for GNOME (and made to match it in the
 </p>
 
 <h2>Color details</h2>
-See <a href="/delameter/solid-cherry/wiki">wiki home page</a>
+See <a href="//github.com/delameter/solid-cherry/wiki">wiki home page</a>
