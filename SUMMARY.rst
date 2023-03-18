@@ -9,16 +9,16 @@
 Main palette
 =================
 
-Open as:   `[JSON] <palette.json>`_  ·   `[YAML] <palette.yml>`_
+`[JSON] <palette.json>`_  ·   `[YAML] <palette.yml>`_
 
-.. |l_cherry_1| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry 1&message=231515&color=231515&labelColor=404040&style=for-the-badge">`
-.. |l_cherry_2| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry 2&message=2c1d1f&color=2c1d1f&labelColor=404040&style=for-the-badge">`
-.. |l_cherry_3| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry 3&message=3d1c1f&color=3d1c1f&labelColor=404040&style=for-the-badge">`
-.. |l_cherry_4| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry 4&message=4c2526&color=4c2526&labelColor=404040&style=for-the-badge">`
-.. |l_cherry_5| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry 5&message=6e2a2c&color=6e2a2c&labelColor=404040&style=for-the-badge">`
-.. |l_cherry_6| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry 6&message=9f3334&color=9f3334&labelColor=404040&style=for-the-badge">`
-.. |l_cherry_7| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry 7&message=b73838&color=b73838&labelColor=404040&style=for-the-badge">`
-.. |l_cherry_8| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry 8&message=e64252&color=e64252&labelColor=404040&style=for-the-badge">`
+.. |l_cherry_1| replace:: `<img src="https://raster.shields.io/static/v1?label=Cherry 1&message=231515&color=231515&labelColor=404040&style=for-the-badge">`
+.. |l_cherry_2| replace:: `<img src="https://raster.shields.io/static/v1?label=Cherry 2&message=2c1d1f&color=2c1d1f&labelColor=404040&style=for-the-badge">`
+.. |l_cherry_3| replace:: `<img src="https://raster.shields.io/static/v1?label=Cherry 3&message=3d1c1f&color=3d1c1f&labelColor=404040&style=for-the-badge">`
+.. |l_cherry_4| replace:: `<img src="https://raster.shields.io/static/v1?label=Cherry 4&message=4c2526&color=4c2526&labelColor=404040&style=for-the-badge">`
+.. |l_cherry_5| replace:: `<img src="https://raster.shields.io/static/v1?label=Cherry 5&message=6e2a2c&color=6e2a2c&labelColor=404040&style=for-the-badge">`
+.. |l_cherry_6| replace:: `<img src="https://raster.shields.io/static/v1?label=Cherry 6&message=9f3334&color=9f3334&labelColor=404040&style=for-the-badge">`
+.. |l_cherry_7| replace:: `<img src="https://raster.shields.io/static/v1?label=Cherry 7&message=b73838&color=b73838&labelColor=404040&style=for-the-badge">`
+.. |l_cherry_8| replace:: `<img src="https://raster.shields.io/static/v1?label=Cherry 8&message=e64252&color=e64252&labelColor=404040&style=for-the-badge">`
 ..  |l_solid_1| replace:: `<img src="https://img.shields.io/static/v1?label=Solid 1&message=010102&color=010102&labelColor=404040&style=for-the-badge">`
 ..  |l_solid_2| replace:: `<img src="https://img.shields.io/static/v1?label=Solid 2&message=060709&color=060709&labelColor=404040&style=for-the-badge">`
 ..  |l_solid_3| replace:: `<img src="https://img.shields.io/static/v1?label=Solid 3&message=0f1011&color=0f1011&labelColor=404040&style=for-the-badge">`
@@ -51,17 +51,17 @@ Open as:   `[JSON] <palette.json>`_  ·   `[YAML] <palette.yml>`_
 Theme
 =================
 
-Open `[JSON] <src/Solid_Cherry.theme.json>`_
+`[JSON] <src/Solid_Cherry.theme.json>`_
 
 .. |--| replace:: \-
-.. |cherry_1| replace:: `<img src="https://img.shields.io/static/v1?label=%F0%9F%8D%92%201&message=231515&color=231515&labelColor=404040&style=flat-square">`
-.. |cherry_2| replace:: `<img src="https://img.shields.io/static/v1?label=%F0%9F%8D%92%202&message=2c1d1f&color=2c1d1f&labelColor=404040&style=flat-square">`
-.. |cherry_3| replace:: `<img src="https://img.shields.io/static/v1?label=%F0%9F%8D%92%203&message=3d1c1f&color=3d1c1f&labelColor=404040&style=flat-square">`
-.. |cherry_4| replace:: `<img src="https://img.shields.io/static/v1?label=%F0%9F%8D%92%204&message=4c2526&color=4c2526&labelColor=404040&style=flat-square">`
-.. |cherry_5| replace:: `<img src="https://img.shields.io/static/v1?label=%F0%9F%8D%92%205&message=6e2a2c&color=6e2a2c&labelColor=404040&style=flat-square">`
-.. |cherry_6| replace:: `<img src="https://img.shields.io/static/v1?label=%F0%9F%8D%92%206&message=9f3334&color=9f3334&labelColor=404040&style=flat-square">`
-.. |cherry_7| replace:: `<img src="https://img.shields.io/static/v1?label=%F0%9F%8D%92%207&message=b73838&color=b73838&labelColor=404040&style=flat-square">`
-.. |cherry_8| replace:: `<img src="https://img.shields.io/static/v1?label=%F0%9F%8D%92%208&message=e64252&color=e64252&labelColor=404040&style=flat-square">`
+.. |cherry_1| replace:: `<img src="https://raster.shields.io/static/v1?label=%F0%9F%8D%92%201&message=231515&color=231515&labelColor=404040&style=flat-square">`
+.. |cherry_2| replace:: `<img src="https://raster.shields.io/static/v1?label=%F0%9F%8D%92%202&message=2c1d1f&color=2c1d1f&labelColor=404040&style=flat-square">`
+.. |cherry_3| replace:: `<img src="https://raster.shields.io/static/v1?label=%F0%9F%8D%92%203&message=3d1c1f&color=3d1c1f&labelColor=404040&style=flat-square">`
+.. |cherry_4| replace:: `<img src="https://raster.shields.io/static/v1?label=%F0%9F%8D%92%204&message=4c2526&color=4c2526&labelColor=404040&style=flat-square">`
+.. |cherry_5| replace:: `<img src="https://raster.shields.io/static/v1?label=%F0%9F%8D%92%205&message=6e2a2c&color=6e2a2c&labelColor=404040&style=flat-square">`
+.. |cherry_6| replace:: `<img src="https://raster.shields.io/static/v1?label=%F0%9F%8D%92%206&message=9f3334&color=9f3334&labelColor=404040&style=flat-square">`
+.. |cherry_7| replace:: `<img src="https://raster.shields.io/static/v1?label=%F0%9F%8D%92%207&message=b73838&color=b73838&labelColor=404040&style=flat-square">`
+.. |cherry_8| replace:: `<img src="https://raster.shields.io/static/v1?label=%F0%9F%8D%92%208&message=e64252&color=e64252&labelColor=404040&style=flat-square">`
 ..  |solid_1| replace:: `<img src="https://img.shields.io/static/v1?label=S%201&message=010102&color=010102&labelColor=404040&style=flat-square">`
 ..  |solid_2| replace:: `<img src="https://img.shields.io/static/v1?label=S%202&message=060709&color=060709&labelColor=404040&style=flat-square">`
 ..  |solid_3| replace:: `<img src="https://img.shields.io/static/v1?label=S%203&message=0f1011&color=0f1011&labelColor=404040&style=flat-square">`
@@ -121,7 +121,7 @@ link hpver         |cherry_6|       |--|       |--|          |--|
 Editor scheme
 =================
 
-Open `[XML] <src/Solid_Cherry.iml>`_
+`[XML] <src/Solid_Cherry.iml>`_
 
 ..  |readonly_bg| replace:: `<img src="https://img.shields.io/static/v1?label=[%E2%80%A6]&message=1f1b18&color=1f1b18&labelColor=404040&style=flat-square">`
 ..  |select_bg|   replace:: `<img src="https://img.shields.io/static/v1?label=[%E2%80%A6]&message=176081&color=176081&labelColor=404040&style=flat-square">`
