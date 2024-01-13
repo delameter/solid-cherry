@@ -11,30 +11,30 @@ Main palette
 
 Open as:   `[JSON] <palette.json>`_  ·   `[YAML] <palette.yml>`_
 
-.. |l_cherry_1| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry 1&message=231515&color=231515&labelColor=404040&style=for-the-badge">`
-.. |l_cherry_2| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry 2&message=2c1d1f&color=2c1d1f&labelColor=404040&style=for-the-badge">`
-.. |l_cherry_3| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry 3&message=3d1c1f&color=3d1c1f&labelColor=404040&style=for-the-badge">`
-.. |l_cherry_4| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry 4&message=4c2526&color=4c2526&labelColor=404040&style=for-the-badge">`
-.. |l_cherry_5| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry 5&message=6e2a2c&color=6e2a2c&labelColor=404040&style=for-the-badge">`
-.. |l_cherry_6| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry 6&message=9f3334&color=9f3334&labelColor=404040&style=for-the-badge">`
-.. |l_cherry_7| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry 7&message=b73838&color=b73838&labelColor=404040&style=for-the-badge">`
-.. |l_cherry_8| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry 8&message=e83840&color=e83840&labelColor=404040&style=for-the-badge">`
-..  |l_solid_1| replace:: `<img src="https://img.shields.io/static/v1?label=Solid 1&message=010102&color=010102&labelColor=404040&style=for-the-badge">`
-..  |l_solid_2| replace:: `<img src="https://img.shields.io/static/v1?label=Solid 2&message=060709&color=060709&labelColor=404040&style=for-the-badge">`
-..  |l_solid_3| replace:: `<img src="https://img.shields.io/static/v1?label=Solid 3&message=0f1011&color=0f1011&labelColor=404040&style=for-the-badge">`
-..  |l_solid_4| replace:: `<img src="https://img.shields.io/static/v1?label=Solid 4&message=131518&color=131518&labelColor=404040&style=for-the-badge">`
-..  |l_solid_5| replace:: `<img src="https://img.shields.io/static/v1?label=Solid 5&message=212325&color=212325&labelColor=404040&style=for-the-badge">`
-..  |l_solid_6| replace:: `<img src="https://img.shields.io/static/v1?label=Solid 6&message=292A2B&color=292A2B&labelColor=404040&style=for-the-badge">`
-..  |l_solid_7| replace:: `<img src="https://img.shields.io/static/v1?label=Solid 7&message=2f3132&color=2f3132&labelColor=404040&style=for-the-badge">`
-..  |l_solid_8| replace:: `<img src="https://img.shields.io/static/v1?label=Solid 8&message=313233&color=313233&labelColor=404040&style=for-the-badge">`
-..  |l_label_1| replace:: `<img src="https://img.shields.io/static/v1?label=Label 1&message=4d4e4e&color=4d4e4e&labelColor=404040&style=for-the-badge">`
-..  |l_label_2| replace:: `<img src="https://img.shields.io/static/v1?label=Label 2&message=636265&color=636265&labelColor=404040&style=for-the-badge">`
-..  |l_label_3| replace:: `<img src="https://img.shields.io/static/v1?label=Label 3&message=7E8185&color=7E8185&labelColor=404040&style=for-the-badge">`
-..  |l_label_4| replace:: `<img src="https://img.shields.io/static/v1?label=Label 4&message=abb2bf&color=abb2bf&labelColor=404040&style=for-the-badge">`
-..  |l_label_5| replace:: `<img src="https://img.shields.io/static/v1?label=Label 5&message=cfd2d5&color=cfd2d5&labelColor=404040&style=for-the-badge">`
-..  |l_label_6| replace:: `<img src="https://img.shields.io/static/v1?label=Label 6&message=d7dae0&color=d7dae0&labelColor=404040&style=for-the-badge">`
-..  |l_label_7| replace:: `<img src="https://img.shields.io/static/v1?label=Label 7&message=eef3ff&color=eef3ff&labelColor=404040&style=for-the-badge">`
-..  |l_label_8| replace:: `<img src="https://img.shields.io/static/v1?label=Label 8&message=fdfdfd&color=fdfdfd&labelColor=404040&style=for-the-badge">`
+.. |l_cherry_1| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry%201&message=231515&color=231515&labelColor=404040&style=for-the-badge">`
+.. |l_cherry_2| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry%202&message=2c1d1f&color=2c1d1f&labelColor=404040&style=for-the-badge">`
+.. |l_cherry_3| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry%203&message=3d1c1f&color=3d1c1f&labelColor=404040&style=for-the-badge">`
+.. |l_cherry_4| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry%204&message=4c2526&color=4c2526&labelColor=404040&style=for-the-badge">`
+.. |l_cherry_5| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry%205&message=6e2a2c&color=6e2a2c&labelColor=404040&style=for-the-badge">`
+.. |l_cherry_6| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry%206&message=9f3334&color=9f3334&labelColor=404040&style=for-the-badge">`
+.. |l_cherry_7| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry%207&message=b73838&color=b73838&labelColor=404040&style=for-the-badge">`
+.. |l_cherry_8| replace:: `<img src="https://img.shields.io/static/v1?label=Cherry%208&message=d6343b&color=d6343b&labelColor=404040&style=for-the-badge">`
+..  |l_solid_1| replace:: `<img src="https://img.shields.io/static/v1?label=Solid%201&message=010102&color=010102&labelColor=404040&style=for-the-badge">`
+..  |l_solid_2| replace:: `<img src="https://img.shields.io/static/v1?label=Solid%202&message=060709&color=060709&labelColor=404040&style=for-the-badge">`
+..  |l_solid_3| replace:: `<img src="https://img.shields.io/static/v1?label=Solid%203&message=0f1011&color=0f1011&labelColor=404040&style=for-the-badge">`
+..  |l_solid_4| replace:: `<img src="https://img.shields.io/static/v1?label=Solid%204&message=131518&color=131518&labelColor=404040&style=for-the-badge">`
+..  |l_solid_5| replace:: `<img src="https://img.shields.io/static/v1?label=Solid%205&message=212325&color=212325&labelColor=404040&style=for-the-badge">`
+..  |l_solid_6| replace:: `<img src="https://img.shields.io/static/v1?label=Solid%206&message=292a2b&color=292a2b&labelColor=404040&style=for-the-badge">`
+..  |l_solid_7| replace:: `<img src="https://img.shields.io/static/v1?label=Solid%207&message=2c2e2f&color=2c2e2f&labelColor=404040&style=for-the-badge">`
+..  |l_solid_8| replace:: `<img src="https://img.shields.io/static/v1?label=Solid%208&message=313233&color=313233&labelColor=404040&style=for-the-badge">`
+..  |l_label_1| replace:: `<img src="https://img.shields.io/static/v1?label=Label%201&message=4d4e4e&color=4d4e4e&labelColor=404040&style=for-the-badge">`
+..  |l_label_2| replace:: `<img src="https://img.shields.io/static/v1?label=Label%202&message=626465&color=626465&labelColor=404040&style=for-the-badge">`
+..  |l_label_3| replace:: `<img src="https://img.shields.io/static/v1?label=Label%203&message=7e8185&color=7e8185&labelColor=404040&style=for-the-badge">`
+..  |l_label_4| replace:: `<img src="https://img.shields.io/static/v1?label=Label%204&message=b4babf&color=b4babf&labelColor=404040&style=for-the-badge">`
+..  |l_label_5| replace:: `<img src="https://img.shields.io/static/v1?label=Label%205&message=cfd2d5&color=cfd2d5&labelColor=404040&style=for-the-badge">`
+..  |l_label_6| replace:: `<img src="https://img.shields.io/static/v1?label=Label%206&message=d7dae0&color=d7dae0&labelColor=404040&style=for-the-badge">`
+..  |l_label_7| replace:: `<img src="https://img.shields.io/static/v1?label=Label%207&message=f0f3f9&color=f0f3f9&labelColor=404040&style=for-the-badge">`
+..  |l_label_8| replace:: `<img src="https://img.shields.io/static/v1?label=Label%208&message=fdfdfd&color=fdfdfd&labelColor=404040&style=for-the-badge">`
 
 +----------------+---------------+---------------+
 | | |l_cherry_1| | | |l_solid_1| | | |l_label_1| |
@@ -61,22 +61,22 @@ Open `[JSON] <src/Solid_Cherry.theme.json>`_
 .. |cherry_5| replace:: `<img src="https://img.shields.io/static/v1?label=%F0%9F%8D%92%205&message=6e2a2c&color=6e2a2c&labelColor=404040&style=flat-square">`
 .. |cherry_6| replace:: `<img src="https://img.shields.io/static/v1?label=%F0%9F%8D%92%206&message=9f3334&color=9f3334&labelColor=404040&style=flat-square">`
 .. |cherry_7| replace:: `<img src="https://img.shields.io/static/v1?label=%F0%9F%8D%92%207&message=b73838&color=b73838&labelColor=404040&style=flat-square">`
-.. |cherry_8| replace:: `<img src="https://img.shields.io/static/v1?label=%F0%9F%8D%92%208&message=e83840&color=e83840&labelColor=404040&style=flat-square">`
+.. |cherry_8| replace:: `<img src="https://img.shields.io/static/v1?label=%F0%9F%8D%92%208&message=d6343b&color=d6343b&labelColor=404040&style=flat-square">`
 ..  |solid_1| replace:: `<img src="https://img.shields.io/static/v1?label=S%201&message=010102&color=010102&labelColor=404040&style=flat-square">`
 ..  |solid_2| replace:: `<img src="https://img.shields.io/static/v1?label=S%202&message=060709&color=060709&labelColor=404040&style=flat-square">`
 ..  |solid_3| replace:: `<img src="https://img.shields.io/static/v1?label=S%203&message=0f1011&color=0f1011&labelColor=404040&style=flat-square">`
 ..  |solid_4| replace:: `<img src="https://img.shields.io/static/v1?label=S%204&message=131518&color=131518&labelColor=404040&style=flat-square">`
 ..  |solid_5| replace:: `<img src="https://img.shields.io/static/v1?label=S%205&message=212325&color=212325&labelColor=404040&style=flat-square">`
-..  |solid_6| replace:: `<img src="https://img.shields.io/static/v1?label=S%206&message=292A2B&color=292A2B&labelColor=404040&style=flat-square">`
-..  |solid_7| replace:: `<img src="https://img.shields.io/static/v1?label=S%207&message=2f3132&color=2f3132&labelColor=404040&style=flat-square">`
+..  |solid_6| replace:: `<img src="https://img.shields.io/stati c/v1?label=S%206&message=292a2b&color=292a2b&labelColor=404040&style=flat-square">`
+..  |solid_7| replace:: `<img src="https://img.shields.io/static/v1?label=S%207&message=2c2e2f&color=2c2e2f&labelColor=404040&style=flat-square">`
 ..  |solid_8| replace:: `<img src="https://img.shields.io/static/v1?label=S%208&message=313233&color=313233&labelColor=404040&style=flat-square">`
 ..  |label_1| replace:: `<img src="https://img.shields.io/static/v1?label=L%201&message=4d4e4e&color=4d4e4e&labelColor=404040&style=flat-square">`
-..  |label_2| replace:: `<img src="https://img.shields.io/static/v1?label=L%202&message=636265&color=636265&labelColor=404040&style=flat-square">`
-..  |label_3| replace:: `<img src="https://img.shields.io/static/v1?label=L%203&message=7E8185&color=7E8185&labelColor=404040&style=flat-square">`
-..  |label_4| replace:: `<img src="https://img.shields.io/static/v1?label=L%204&message=abb2bf&color=abb2bf&labelColor=404040&style=flat-square">`
+..  |label_2| replace:: `<img src="https://img.shields.io/static/v1?label=L%202&message=626465&color=626465&labelColor=404040&style=flat-square">`
+..  |label_3| replace:: `<img src="https://img.shields.io/static/v1?label=L%203&message=7e8185&color=7e8185&labelColor=404040&style=flat-square">`
+..  |label_4| replace:: `<img src="https://img.shields.io/static/v1?label=L%204&message=b4babf&color=b4babf&labelColor=404040&style=flat-square">`
 ..  |label_5| replace:: `<img src="https://img.shields.io/static/v1?label=L%205&message=cfd2d5&color=cfd2d5&labelColor=404040&style=flat-square">`
 ..  |label_6| replace:: `<img src="https://img.shields.io/static/v1?label=L%206&message=d7dae0&color=d7dae0&labelColor=404040&style=flat-square">`
-..  |label_7| replace:: `<img src="https://img.shields.io/static/v1?label=L%207&message=eef3ff&color=eef3ff&labelColor=404040&style=flat-square">`
+..  |label_7| replace:: `<img src="https://img.shields.io/static/v1?label=L%207&message=f0f3f9&color=f0f3f9&labelColor=404040&style=flat-square">`
 ..  |label_8| replace:: `<img src="https://img.shields.io/static/v1?label=L%208&message=fdfdfd&color=fdfdfd&labelColor=404040&style=flat-square">`
 
 ================== ================ ========== ============= ============
@@ -222,18 +222,3 @@ DIFF_DELETED                           |diff_del_bg|  |diff_del_fg|  |diff_del_e
 DIFF_INSERTED                          |diff_ins_bg|  |diff_ins_fg|  |diff_ins_es|
 DIFF_MODIFIED                          |diff_mod_bg|  |diff_mod_fg|  |diff_mod_es|
 ====================================== ============== ============== ==================
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
